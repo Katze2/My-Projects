@@ -4,7 +4,7 @@
 This program scraps the products name,price,date and image from given craigslist link. If you have any question about it please let me know.
 
 
-#Requirements:
+# Requirements:
 
 	Python 3.x
 
@@ -16,7 +16,7 @@ This program scraps the products name,price,date and image from given craigslist
 
 	requests
 
-#Installation:
+# Installation:
 
 	pip install bs4
 	pip install Pillow	
