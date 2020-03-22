@@ -25,4 +25,4 @@ This program scraps the products name,price,date and image from given craigslist
 
 # Usage:
 
-When you run the code it will ask you to write the link to craiglist products that you want to scrape.  
+When you run the code it will ask you to write the link to craigslist products that you want to scrape.  
