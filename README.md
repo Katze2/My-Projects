@@ -7,16 +7,16 @@ This program scraps the products name,price,date and image from given craigslist
 Requirements:
 
 Python 3.x
-bs4
-Pillow
-openpyxl
-requests
+	bs4
+	Pillow
+	openpyxl
+	requests
 
 Installation:
 
-pip install bs4
-pip install Pillow
-pip install openpyxl
-pip install requests
+	pip install bs4
+	pip install Pillow	
+	pip install openpyxl
+	pip install requests
 
 
